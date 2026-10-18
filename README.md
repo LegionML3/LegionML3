@@ -2,13 +2,6 @@
 
 ###
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/LegionML3/LegionML3/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=onedark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=LegionML3&locale=en&mode=daily&theme=onedark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-</div>
-
-###
-
 <br clear="both">
 
 <img data-importer="image" align="right" height="120" src="https://academy-public.coinmarketcap.com/optimized-uploads/89d82929af5142acb4d9940b278115a1.gif"  />
